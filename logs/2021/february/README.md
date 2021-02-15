@@ -6,4 +6,8 @@
 - Got some useful links
   - https://tryhackme.com/ - for hacking challenges
   - https://mermaid-js.github.io/mermaid/#/ - diagrams as code, useful for mindmaps, sequence diagrams, gantt, etc
+- Had a meeting about terraform wrappers
+  - https://github.com/tlopo-ruby/tfw
+  - https://terragrunt.gruntwork.io/
+  - https://git.mckinsey-solutions.com/Martin-Kelly/scaffold
 
