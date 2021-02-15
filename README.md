@@ -1,3 +1,4 @@
 # Hello World
 
-[Logs](./logs)
+- [Logs](./logs)
+- [Scripts](./scripts)
