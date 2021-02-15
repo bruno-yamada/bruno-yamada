@@ -1,0 +1,1 @@
+“The man who is anybody and who does anything is certainly going to be criticized, vilified and misunderstood. This is a part of the penalty for greatness, and every great man understands it; and understands, too, that it is no proof of greatness.” ― Elbert Hubbard, A Message to Garcia: And Other Classic Success Writings
