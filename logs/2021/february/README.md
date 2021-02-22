@@ -11,3 +11,10 @@
   - https://terragrunt.gruntwork.io/
   - https://git.mckinsey-solutions.com/Martin-Kelly/scaffold
 
+# 2021-02-16 10:01:56 -03
+- Q# (Q Sharp) is a language used for Quantum Computing
+- [crazy4pi314](https://www.twitch.tv/crazy4pi314/) streams quantum computing on twitch
+
+# 2021-02-22 09:47:55 -03
+- the study-notes really helped me remember what I was studying after having to take a break from study for a week due to work
+
