@@ -35,3 +35,4 @@ tools:
   - name: Vault
   - name: Zabbix
   - name: PowerDNS
+  - name: coredns
