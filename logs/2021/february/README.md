@@ -18,3 +18,7 @@
 # 2021-02-22 09:47:55 -03
 - the study-notes really helped me remember what I was studying after having to take a break from study for a week due to work
 
+# 2021-02-24 10:11:13 -03
+- Azure has its own CloudFormation/Terraform kinda functionality in AzureResourceManager(ARM), and they really try to push powershell adoption for managing azure (but it is not required)
+- After struggling a little bit with helm templates, trying to escape the dollar sign '$' from a configmap used to build a nginx.conf file, I found the problem actually was an envsubst being executed in the deployment pipeline, that is why I was able to install the helm chart locally, but it kept breaking when executed through the pipeline, should've realized it sooner
+- .Files.Get is broken on Helm v2.8.2 (dont known when it was fixed)
