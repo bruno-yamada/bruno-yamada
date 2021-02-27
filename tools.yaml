@@ -36,3 +36,6 @@ tools:
   - name: Zabbix
   - name: PowerDNS
   - name: coredns
+  - name: perl
+  - name: POSIX shell
+  - name: pkill
