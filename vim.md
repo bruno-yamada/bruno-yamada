@@ -12,3 +12,9 @@ https://rwx.gg/tools/editors/vi/how/magic/
 :g/my-exp/d
 ```
 
+
+# get the meaning of flags from the vim help
+```
+:h hlsearch
+```
+
