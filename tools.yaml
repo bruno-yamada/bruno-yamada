@@ -39,3 +39,4 @@ tools:
   - name: perl
   - name: POSIX shell
   - name: pkill
+  - name: OIDC
