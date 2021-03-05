@@ -16,4 +16,4 @@ I write a lot of things, and take many notes, the process helps me summarize and
 This work has been started on february 2021, so don't shy away because of its current size, it is going to be continually incremented and developed for sure.
 
 ## Contact
-- [Linkedin](https://www.linkedin.com/in/bruno-yamada/?trk=profile-badge&originalSubdomain=br)
+- [Linkedin](https://www.linkedin.com/in/bruno-yamada/)
