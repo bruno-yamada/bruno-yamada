@@ -5,8 +5,9 @@
 > Sometimes it is better to "just do it" and get into action, but is famous for leaving gaps in your knowledge, you also need the more advanced theorical knowledge from books and documentation
 
 ## Marty Lobdell - Study Less Study Smart 
-[source vide](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
-break study into little pieces
+[source video](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+
+Break study into little pieces
 - Most of the learning is done in the first 25 to 30 minutes (that is the usual pomodoro timer)
 - you need a "treat" for after you studied, some sort of reward
 - study for only small amounts, so it is effective, give your self a reward, that it is not pushing and are tempted to avoid studying
