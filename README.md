@@ -1,6 +1,7 @@
 # Hello World
 
-[Knowledge-levels](./knowledge-levels.md)
+[[Knowledge-levels]](./knowledge-levels.md)
+[[Linkedin]](https://www.linkedin.com/in/bruno-yamada/)
 
 - [Books](./books)
 - [Insights](./insights)
