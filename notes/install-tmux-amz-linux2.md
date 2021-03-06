@@ -11,7 +11,7 @@ git clone --depth 1 https://github.com/tmux/tmux.git ~/.tmux-tmp
 cd ~/.tmux-tmp
 sh autogen.sh
 ./configure && make
-cp tmux /usr/local/bin/
+sudo cp tmux /usr/local/bin/
 ```
 
 Optionally clear `~/.tmux-tmp`
