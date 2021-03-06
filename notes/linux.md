@@ -7,6 +7,21 @@
 - cat
 - head
 
+# User management
+Create user:
+```
+N_USER=bruno
+sudo useradd $N_USER --disabled-password
+
+# for ubuntu
+sudo usermod -aG sudo $N_USER
+
+# for amazon linux
+sudo usermod -aG wheel $N_USER
+```
+
+
+
 ## bc
 basic calculator 
 
@@ -24,3 +39,4 @@ Split string, output slices from array
 ```sh
 echo https://google.com/q?=teste | cut -d'/' -f 1-3 # outputs https://google.com
 ```
+
