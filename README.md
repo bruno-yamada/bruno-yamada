@@ -1,13 +1,10 @@
 # Hello World
 
 ▪️ [Knowledge-levels](./knowledge-levels.md)
-▪️ [Linkedin](https://www.linkedin.com/in/bruno-yamada/)
+▪️ [Notes](./notes)
+▪️ [Scripts](./scripts)
 
-- [Books](./books)
-- [Insights](./insights)
-- [Links](./links)
 - [Logs](./logs)
-- [Scripts](./scripts)
 
 I am an SRE/DevOps/Programmer from Brazil working remotely for overseas companies, this is my `knowledge backup` so to speak.
 
