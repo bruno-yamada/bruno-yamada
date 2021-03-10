@@ -6,6 +6,7 @@
 
 - [Logs](./logs)
 - [dotfiles](https://github.com/bruno-yamada/dotfiles)
+- [study-notes](https://github.com/bruno-yamada/study-notes)
 
 I am an SRE/DevOps/Programmer from Brazil working remotely for overseas companies, this is my `knowledge backup` so to speak.
 
