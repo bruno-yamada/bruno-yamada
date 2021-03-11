@@ -1,18 +1,37 @@
-# Window commands
+<!--
+other refs:
+- https://tmuxcheatsheet.com/
+- https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html
+- https://gist.github.com/MohamedAlaa/2961058
+-->
+
+# Tmux
+
+## Window commands
 ```
-# Create Window
+## Create Window
 <prefix> c
 
-# Rename window
+## Rename window
 <prefix> ,
 
-# Exit window
+## Exit window
 :exit-window
 ```
 
-# Misc
+## Copy mode
+```
+Enter Copy Mode: <prefix> [
+
+Half page up    C-u
+Half page down  C-d
 
 ```
-# Clear history (sometimes can get bit heavy)
+
+## Misc
+
+```
+## Clear history (sometimes can get bit heavy)
 :clear-history
 ```
+
