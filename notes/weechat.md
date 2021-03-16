@@ -1,7 +1,7 @@
 # Weechat
 Weechat is a terminal based IRC client
 
-You can try using it by testing [my docker ]
+You can try using it by testing my docker image: [container-weechat](https://github.com/bruno-yamada/container-weechat)
 
 ## Cheatsheet
 
