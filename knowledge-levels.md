@@ -8,7 +8,7 @@ That is why I have compiled here what I know, and how deeply I know it, so that 
 Also, usually, in our field, when we start listing what we know, it can quickly turn into a soup of acronyms and weird names, so to have this information here also makes it easier for me to rationalize about what I do know, as in our field, we often learn about a lot of things non-stop.
 
 0. Don't know it
-1. Know the acronym, can talk about it
+1. Know the acronym, concept or technology, can talk about it
 2. Did your labs and experiments, could do professionally given the time
 3. Can do it professionaly and be accountable
 4. You are good at it, co-workers looks at you for guidance
@@ -19,22 +19,57 @@ Also, usually, in our field, when we start listing what we know, it can quickly 
 9. You are one of the small team/elite team of committee
 10. You created it
 
-## Languages:
-| Knowledge              | level  | links |
-|------------------------|:------:|-------|
-| NodeJS                 | 3      |       |
-| Python                 | 4      |       |
+## Programming Languages:
+| Knowledge  | level | links |
+|------------|:-----:|-------|
+| Bash       |   3   |       |
+| GO         |   2   |       |
+| Java       |   3   |       |
+| Javascript |   3   |       |
+| NodeJS     |   3   |       |
+| PHP        |   3   |       |
+| Python     |   4   |       |
 
-## Projects/Frameworks:
-| Knowledge              | level  | links |
-|------------------------|:------:|-------|
-| Kuberntes              | 3      |       |
-| ReactJS                | 3      |       |
+## Cloud Providers:
+| Knowledge                    | level | links |
+|------------------------------|:-----:|-------|
+| Alibaba Cloud                |   1   |       |
+| Amazon Web Services (AWS)    |   3   |       |
+| Digital Ocean                |   3   |       |
+| Gooogle Cloud Platform (GCP) |   2   |       |
+| Microsoft Azure              |   2   |       |
+
+## Projects/Frameworks/Tools:
+| Knowledge        | level | links |
+|------------------|:-----:|-------|
+| Ansible          |   3   |       |
+| CircleCI         |   3   |       |
+| ConcourseCI      |   2   |       |
+| Elasticsearch    |   3   |       |
+| GitlabCI         |   3   |       |
+| Grafana          |   3   |       |
+| Harbor           |   3   |       |
+| Helm             |   3   |       |
+| Jenkins          |   2   |       |
+| Kuberntes        |   3   |       |
+| Laravel          |   3   |       |
+| React Native     |   2   |       |
+| ReactJS          |   3   |       |
+| Spring Framework |   3   |       |
+| Terraform        |   4   |       |
+| Tmux             |   4   |       |
+| Vault            |   4   |       |
+| Vi / Vim         |   4   |       |
+| Vue.js           |   3   |       |
+| Zabbix           |   3   |       |
 
 ## Concepts
-| Knowledge              | level  | links |
-|------------------------|:------:|-------|
-| DevOps                 | 3      |       |
-| Machine Learning       | 2      |       |
-| SRE                    | 3      |       |
-| Software Development   | 4      |       |
+| Knowledge                | level | links |
+|--------------------------|:-----:|-------|
+| A.I. & Machine Learning  |   2   |       |
+| Chatbots                 |   3   |       |
+| Data Science             |   2   |       |
+| DevOps                   |   3   |       |
+| SRE                      |   3   |       |
+| Secure Product Lifecycle |   2   |       |
+| Software Development     |   4   |       |
