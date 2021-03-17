@@ -12,7 +12,7 @@ Also, usually, in our field, when we start listing what we know, it can quickly 
 2. Did your labs and experiments, could do professionally given the time
 3. Can do it professionaly and be accountable
 4. You are good at it, co-workers looks at you for guidance
-5. You have presented conferences on it
+5. You have presented conferences on it, or written many articles
 6. Regional Expert
 7. Book Author
 8. You are on the guidance committee
@@ -34,10 +34,11 @@ Also, usually, in our field, when we start listing what we know, it can quickly 
 | Knowledge                    | level | links |
 |------------------------------|:-----:|-------|
 | Alibaba Cloud                |   1   |       |
-| Amazon Web Services (AWS)    |   3   |       |
+| Amazon Web Services (AWS)    |   4   |       |
 | Digital Ocean                |   3   |       |
 | Gooogle Cloud Platform (GCP) |   2   |       |
 | Microsoft Azure              |   2   |       |
+| Oracle Cloud                 |   3   |       |
 
 ## Projects/Frameworks/Tools:
 | Knowledge        | level | links |
