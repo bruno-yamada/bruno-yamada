@@ -6,3 +6,8 @@ git remote set-branches origin '*'
 # will effectively fetch all commits
 git fetch --unshallow
 ```
+# Undoing commit
+undo last commit
+```
+git reset --soft HEAD~1
+```
