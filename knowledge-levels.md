@@ -59,7 +59,7 @@ Also, usually, in our field, when we start listing what we know, it can quickly 
 | Spring Framework |   3   |       |
 | Terraform        |   4   |       |
 | Tmux             |   4   |       |
-| Vault            |   4   |       |
+| Vault            |   3   |       |
 | Vi / Vim         |   4   |       |
 | Vue.js           |   3   |       |
 | Zabbix           |   3   |       |
@@ -74,3 +74,4 @@ Also, usually, in our field, when we start listing what we know, it can quickly 
 | SRE                      |   3   |       |
 | Secure Product Lifecycle |   2   |       |
 | Software Development     |   4   |       |
+
