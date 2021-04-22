@@ -116,3 +116,15 @@ Logar na base do serviço com o user do serviço (ex: overflow_manager_service)
 # Slow running queries
 SELECT pid, client_addr, backend_start, query FROM pg_stat_activity ORDER BY backend_start;
 
+# Take database dump
+> ref: https://www.postgresql.org/docs/9.1/backup-dump.html
+
+```
+pg_dump db_name > outfile
+pg_dumpall > outfile
+pg_dump dbname | gzip > filename.gz
+```
+# Create database
+```
+CREATE DATABASE 
+```
