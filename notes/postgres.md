@@ -34,6 +34,9 @@ SELECT table_name, column_name, data_type FROM information_schema.columns WHERE 
 
 CREATE USER username WITH PASSWORD 'password';
 
+# Grant all privileges
+grant all privileges on database DB_NAME to USERNAME;
+
 # Grant
 ## Connect
 GRANT CONNECT ON DATABASE database_name TO username;

@@ -1,6 +1,8 @@
 # TODO
 tools:
   - name: ArgoCD
+  - name: neofetch
+  - name: urlgrabber
   - name: Auth0
   - name: Confluence
   - name: Consul
