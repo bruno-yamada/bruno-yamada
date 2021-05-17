@@ -14,12 +14,15 @@ tools:
   - name: Grafana
   - name: Harbor
   - name: IPSEC
+  - name: Flux (FluxCD, Flux Operator)
   - name: JFrog
     tags:
     - JFrog XRay
   - name: Jenkins
   - name: K9S
   - name: Kube2iam
+  - name: kubeadm
+  - name: kops
   - name: Kubebuilder
   - name: Kubernetes
   - name: Kustomize

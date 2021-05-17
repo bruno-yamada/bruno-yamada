@@ -23,7 +23,7 @@ Also, usually, in our field, when we start listing what we know, it can quickly 
 | Knowledge  | level | links |
 |------------|:-----:|-------|
 | Bash       |   3   |       |
-| GO         |   2   |       |
+| GO         |   3   |       |
 | Java       |   3   |       |
 | Javascript |   3   |       |
 | NodeJS     |   3   |       |
