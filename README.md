@@ -4,9 +4,10 @@
 ▪️ [Notes](./notes)
 ▪️ [Scripts](./scripts)
 
-- [Logs](./logs)
+- [Zettelkasten (Notes)](https://github.com/bruno-yamada/zet)
 - [dotfiles](https://github.com/bruno-yamada/dotfiles)
 - [study-notes](https://github.com/bruno-yamada/study-notes)
+- [Logs](./logs)
 
 I am an SRE/DevOps/Programmer from Brazil working remotely for overseas companies, this is my `knowledge backup` so to speak.
 
