@@ -75,3 +75,10 @@ Also, usually, in our field, when we start listing what we know, it can quickly 
 | Secure Product Lifecycle |   2   |       |
 | Software Development     |   4   |       |
 
+
+## Certifications path
+| Certification                                   | status | date     |
+| ----------------------------------------------- | :----: | -------- |
+| Udacity: Data Scientist Nanodegree              |  Done  | feb/2019 |
+| Hashicorp Certified: Terraform Associate        |  Done  | feb/2021 |
+| Microsoft AZ-104: Microsoft Azure Administrator |  TODO  |          |
