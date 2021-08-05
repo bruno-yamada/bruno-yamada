@@ -122,11 +122,51 @@ SELECT pid, client_addr, backend_start, query FROM pg_stat_activity ORDER BY bac
 # Take database dump
 > ref: https://www.postgresql.org/docs/9.1/backup-dump.html
 
-```
+dump single database (does not include cluster-wide information such as roles or namespaces)
+```sh
 pg_dump db_name > outfile
-pg_dumpall > outfile
-pg_dump dbname | gzip > filename.gz
 ```
+
+dump each database, along with roles and namespaces
+```sh
+pg_dumpall > outfile
+```
+
+compress large dumps
+```sh
+pg_dump dbname | gzip > filename.gz
+
+# reload with:
+gunzip -c filename.gz | psql dbname
+```
+
+single table dump
+```sh
+pg_dump --host localhost --port 5432 --username postgres --format plain --verbose --file "<abstract_file_path>" --table public.tablename dbname
+
+# or
+pg_dump --table public.tablename dbname > outfile
+```
+
+# Restoring database dump
+
+single db
+```sh
+psql dbname < infile
+# or
+psql --set ON_ERROR_STOP=on dbname < infile
+```
+
+from dumpall
+```sh
+psql -f infile postgress
+```
+
+from single table
+```sh
+psql -U username -d database -1 -f your_dump.sql
+```
+
 # Create database
 ```
 CREATE DATABASE 
