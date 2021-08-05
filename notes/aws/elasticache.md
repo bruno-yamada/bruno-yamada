@@ -8,7 +8,7 @@ not be able to do it unless you configure a tunnel with something line stunnel
 For testing purposes it might be easier to use python:
 ```
 import redis
-r = redis.Redis(host=host, ssl=True, password=pass)
+r = redis.Redis(host=host, ssl=True, password=password)
 r.set('test-key', 'test-value')
 r.get('test-key')
 ```
