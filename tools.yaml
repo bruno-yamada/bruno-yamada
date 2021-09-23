@@ -45,3 +45,20 @@ tools:
   - name: POSIX shell
   - name: pkill
   - name: OIDC
+  - name: Rundeck
+  - name: skopeo
+      url: https://github.com/containers/skopeo
+      description: |
+        tool for managing container registries, moving containers around,
+        syncing registries and so forth
+  - name: tarmak
+      url: https://docs.tarmak.io/
+      description: |
+        "Tarmak is an open-source toolkit for Kubernetes cluster lifecycle 
+        management. It is focused on best-practice cluster security, management 
+        and operation."
+  - name: crossplane
+      url: https://crossplane.io/
+      description: |
+        open source kubernetes add-on to manage infrastructure through k8s,
+        sorta like Terraform for kubernetes?
