@@ -29,7 +29,7 @@ This means, skill levels range from 0 to 5 (zero is no knowledge at all)
 | Knowledge  | level | links |
 |------------|:-----:|-------|
 | Bash       |   3   |       |
-| GO         |   3   |       |
+| GO         |   2   |       |
 | Java       |   3   |       |
 | Javascript |   3   |       |
 | NodeJS     |   3   |       |
@@ -39,12 +39,12 @@ This means, skill levels range from 0 to 5 (zero is no knowledge at all)
 ## Cloud Providers:
 | Knowledge                    | level | links |
 |------------------------------|:-----:|-------|
-| Alibaba Cloud                |   1   |       |
-| Amazon Web Services (AWS)    |   4   |       |
+| Alibaba Cloud                |   0   |       |
+| Amazon Web Services (AWS)    |   3   |       |
 | Digital Ocean                |   3   |       |
-| Gooogle Cloud Platform (GCP) |   2   |       |
-| Microsoft Azure              |   2   |       |
-| Oracle Cloud                 |   3   |       |
+| Gooogle Cloud Platform (GCP) |   1   |       |
+| Microsoft Azure              |   1   |       |
+| Oracle Cloud                 |   2   |       |
 
 ## Projects/Frameworks/Tools:
 | Knowledge        | level | links |
@@ -52,10 +52,10 @@ This means, skill levels range from 0 to 5 (zero is no knowledge at all)
 | Ansible          |   3   |       |
 | CircleCI         |   3   |       |
 | ConcourseCI      |   2   |       |
-| Elasticsearch    |   3   |       |
+| Elasticsearch    |   2   |       |
 | GitlabCI         |   3   |       |
 | Grafana          |   3   |       |
-| Harbor           |   3   |       |
+| Harbor           |   2   |       |
 | Helm             |   3   |       |
 | Jenkins          |   2   |       |
 | Kuberntes        |   3   |       |
@@ -63,12 +63,12 @@ This means, skill levels range from 0 to 5 (zero is no knowledge at all)
 | React Native     |   2   |       |
 | ReactJS          |   3   |       |
 | Spring Framework |   3   |       |
-| Terraform        |   4   |       |
-| Tmux             |   4   |       |
-| Vault            |   3   |       |
-| Vi / Vim         |   4   |       |
+| Terraform        |   3   |       |
+| Tmux             |   3   |       |
+| Vault            |   2   |       |
+| Vi / Vim         |   3   |       |
 | Vue.js           |   3   |       |
-| Zabbix           |   3   |       |
+| Zabbix           |   2   |       |
 
 ## Concepts
 | Knowledge                | level | links |
@@ -80,7 +80,6 @@ This means, skill levels range from 0 to 5 (zero is no knowledge at all)
 | SRE                      |   3   |       |
 | Secure Product Lifecycle |   2   |       |
 | Software Development     |   4   |       |
-
 
 ## Certifications path
 | Certification                                   | status | date     |
