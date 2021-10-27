@@ -30,9 +30,14 @@ brew tap my-user/my-tap user@my-private-git.com/my-user/my-tap
 brew untap my-user/my-tap 
 ```
 
-## List installed brews
+## List installed formula
 ```
 brew list
+```
+
+## Get info on installed formula
+```
+brew info <formula>
 ```
 
 ## Local tap
