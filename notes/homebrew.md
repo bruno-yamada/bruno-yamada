@@ -29,3 +29,18 @@ brew tap my-user/my-tap user@my-private-git.com/my-user/my-tap
 ```bash
 brew untap my-user/my-tap 
 ```
+
+## List installed brews
+```
+brew list
+```
+
+## Local tap
+
+> TODO test if it works
+From the tap directory
+```bash
+mkdir -p `brew --repo`/Library/Taps/local
+ln -s $PWD `brew --repo`/Library/Taps/local/homebrew-my-tap
+```
+
