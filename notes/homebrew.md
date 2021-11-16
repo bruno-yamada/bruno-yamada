@@ -49,3 +49,5 @@ mkdir -p `brew --repo`/Library/Taps/local
 ln -s $PWD `brew --repo`/Library/Taps/local/homebrew-my-tap
 ```
 
+Links:
+- [Creating a brew tap](https://github.com/bruno-yamada/zet/blob/master/202110/20211028090446Z/README.md)
