@@ -17,6 +17,9 @@ aws s3 ls s3://<bucket_name> # List objects and common prefixes under a specifie
 aws s3 mb s3://<bucket_name> # Create a specific S3 bucket
 aws s3 rb s3://<bucket_name> # Remove an empty specific S3 bucket by name
 
+### List files recursively
+aws s3 ls --recursive s3://bucket/subpath/if/needed --summarize --human-readable
+
 ### Move a file in local_file_path to a specific bucket in destination_file_path
 ```
 aws s3 mv <local_file_path> s3://<bucket_name>/<destination_file_path> # 
