@@ -36,25 +36,17 @@ This means, skill levels range from 0 to 5 (zero is no knowledge at all)
 | PHP        |   3   |       |
 | Python     |   4   |       |
 
-## Cloud Providers:
-| Knowledge                    | level | links |
-|------------------------------|:-----:|-------|
-| Alibaba Cloud                |   0   |       |
-| Amazon Web Services (AWS)    |   3   |       |
-| Digital Ocean                |   3   |       |
-| Gooogle Cloud Platform (GCP) |   1   |       |
-| Microsoft Azure              |   1   |       |
-| Oracle Cloud                 |   2   |       |
-
 ## Projects/Frameworks/Tools:
 | Knowledge        | level | links |
-|------------------|:-----:|-------|
+| ---------------- | :---: | ----- |
 | Ansible          |   3   |       |
 | CircleCI         |   3   |       |
 | ConcourseCI      |   2   |       |
 | Elasticsearch    |   2   |       |
+| Github Actions   |   3   |       |
 | GitlabCI         |   3   |       |
 | Grafana          |   3   |       |
+| gRPC             |   0   |       |
 | Harbor           |   2   |       |
 | Helm             |   3   |       |
 | Jenkins          |   2   |       |
@@ -86,4 +78,14 @@ This means, skill levels range from 0 to 5 (zero is no knowledge at all)
 | ----------------------------------------------- | :----: | -------- |
 | Udacity: Data Scientist Nanodegree              |  Done  | feb/2019 |
 | Hashicorp Certified: Terraform Associate        |  Done  | feb/2021 |
-| Microsoft AZ-104: Microsoft Azure Administrator |  TODO  |          |
+
+## Public Cloud Providers:
+| Knowledge                    | level | links |
+|------------------------------|:-----:|-------|
+| Alibaba Cloud                |   0   |       |
+| Amazon Web Services (AWS)    |   3   |       |
+| Digital Ocean                |   3   |       |
+| Gooogle Cloud Platform (GCP) |   1   |       |
+| Microsoft Azure              |   1   |       |
+| Oracle Cloud                 |   2   |       |
+
