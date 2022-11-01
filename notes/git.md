@@ -26,3 +26,23 @@ Diff between current and current-1
 ```
 git diff HEAD~..HEAD --name-only
 ```
+
+## Sign your commits (using ssh)
+generate your key if you haven't already:
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+```bash
+# set sign format
+git config --global gpg.format ssh
+
+# set to always sign
+git config --global commit.gpgsign true
+git config --global tag.gpgsign true
+
+# set your signing key
+git config --global user.signingkey 'key::ssh-ed25519 AAAAC3(...) user@example.com'
+```
+
+On github, you can also add the key as a "signing" key in your `user settings`
