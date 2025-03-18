@@ -1,13 +1,8 @@
 # Hello World
 
-▪️ [Knowledge-levels](./knowledge-levels.md)
-▪️ [Notes](./notes)
-▪️ [Scripts](./scripts)
+https://bruno-yamada.github.io/
 
-- [Zettelkasten (Notes)](https://github.com/bruno-yamada/zet)
 - [dotfiles](https://github.com/bruno-yamada/dotfiles)
-- [study-notes](https://github.com/bruno-yamada/study-notes)
-- [Logs](./logs)
 - [My Github Labs](https://github.com/bruno-yamada/labs)
 
 I am an SRE/DevOps/Programmer from Brazil working remotely for overseas companies, this is my `knowledge backup` so to speak.
@@ -18,3 +13,13 @@ I write a lot of things, and take many notes, the process helps me summarize and
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/bruno-yamada/)
+
+---
+
+Deprecated
+- [Scripts](./scripts)
+- [Notes](./notes)
+- [Knowledge-levels](./knowledge-levels.md)
+- [Zettelkasten (Notes)](https://github.com/bruno-yamada/zet)
+- [study-notes](https://github.com/bruno-yamada/study-notes)
+- [Logs](./logs)
