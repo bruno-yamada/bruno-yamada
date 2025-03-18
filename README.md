@@ -8,6 +8,7 @@
 - [dotfiles](https://github.com/bruno-yamada/dotfiles)
 - [study-notes](https://github.com/bruno-yamada/study-notes)
 - [Logs](./logs)
+- [My Github Labs](https://github.com/bruno-yamada/labs)
 
 I am an SRE/DevOps/Programmer from Brazil working remotely for overseas companies, this is my `knowledge backup` so to speak.
 
